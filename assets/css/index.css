@@ -11,6 +11,10 @@
   padding: 0;
 }
 
+footer div.copyright {
+  padding: 0 auto !important;
+}
+
 /* 
 Extra small devices (portrait phones, less than 544px) 
 No media query since this is the default in Bootstrap because it is "mobile first"
