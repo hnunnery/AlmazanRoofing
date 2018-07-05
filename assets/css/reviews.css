@@ -1,6 +1,9 @@
 body {
   margin-top: 70px;
 }
+div.navbar-translate a img {
+  max-width: 130px;
+}
 .page-header {
   height: 220px !important;
   margin-bottom: 25px;

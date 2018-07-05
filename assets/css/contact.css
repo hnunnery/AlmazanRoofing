@@ -1,24 +1,22 @@
 body {
   margin-top: 70px;
 }
-
+div.navbar-translate a img {
+  max-width: 130px;
+}
 .page-header {
   height: 220px !important;
 }
-
 h1 {
   font-size: 11vw !important;
 }
-
 h3 {
   margin: 15px auto !important;
   text-align: center;
 }
-
 button {
   max-width: 250px;
 }
-
 #contact button {
   margin: 0 auto 30vh !important;
 } 
