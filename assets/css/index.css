@@ -2,6 +2,10 @@ div.navbar-translate a img {
   max-width: 130px;
 }
 
+#sectionsNav {
+  padding: 0;
+}
+
 .logo-col {
   max-width: 800px;
 }
@@ -24,9 +28,17 @@ div.brand h3 {
   margin-top: 40px;
 }
 
+footer {
+  margin-top: 60px;
+}
+
 .footer-items {
   margin: 0 auto;
   padding: 0;
+}
+
+.my-bottom-nav {
+  margin-bottom: 30px;
 }
 
 footer div.copyright {
