@@ -1,11 +1,12 @@
+body {
+  margin-top: 50px;
+}
 div.navbar-translate a img {
   max-width: 130px;
 }
-
 #sectionsNav {
   padding: 0;
 }
-
 .logo-col {
   max-width: 800px;
 }
@@ -22,25 +23,19 @@ div.brand h3 {
   width: 90vw;
   white-space: nowrap;
 }
-
-
 .section-examples .col-lg-4{
   margin-top: 40px;
 }
-
 footer {
   margin-top: 60px;
 }
-
 .footer-items {
   margin: 0 auto;
   padding: 0;
 }
-
 .my-bottom-nav {
   margin-bottom: 30px;
 }
-
 footer div.copyright {
   padding: 0 auto !important;
 }

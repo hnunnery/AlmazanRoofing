@@ -22,11 +22,6 @@ h3 {
 .page-header {
   margin-bottom: 40px;
 }
-/* .services-lists {
-  background-color: #2f3d8e25;
-  border-radius: 20px;
-  padding-top: 3px;
-} */
 ul {
   padding: 0;
 }
@@ -34,7 +29,6 @@ li {
   list-style: none;
   font-size: 1.2em;
 }
-
 
 /* 
 Extra small devices (portrait phones, less than 544px) 
