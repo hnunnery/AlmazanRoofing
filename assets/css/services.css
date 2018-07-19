@@ -13,21 +13,27 @@ div.navbar-translate a img {
 h1 {
   font-size: 11vw !important;
 }
-h3 {
-  font-weight: 500;
-}
 .container {
   text-align: center;
 }
 .page-header {
   margin-bottom: 40px;
 }
-ul {
+li {
+  font-size: 1.2em;
+}
+footer {
+  margin-top: 60px;
+}
+.footer-items {
+  margin: 0 auto;
   padding: 0;
 }
-li {
-  list-style: none;
-  font-size: 1.2em;
+.my-bottom-nav {
+  margin-bottom: 20px;
+}
+footer div.copyright {
+  padding: 0 auto !important;
 }
 
 /* 

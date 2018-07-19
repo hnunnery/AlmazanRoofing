@@ -7428,8 +7428,8 @@ button:focus {
       background-color: #2f3d8ea3;
       border-color: #2f3d8ea3; }
     .btn.btn-primary:focus, .btn.btn-primary:active, .btn.btn-primary:hover {
-      -webkit-box-shadow: 0 14px 26px -12px rgba(156, 39, 176, 0.42), 0 4px 23px 0px rgba(0, 0, 0, 0.12), 0 8px 10px -5px rgba(156, 39, 176, 0.2);
-              box-shadow: 0 14px 26px -12px rgba(156, 39, 176, 0.42), 0 4px 23px 0px rgba(0, 0, 0, 0.12), 0 8px 10px -5px rgba(156, 39, 176, 0.2); }
+      -webkit-box-shadow: 0 14px 26px -12px rgba(40, 60, 172, 0.639), 0 4px 23px 0px rgba(0, 0, 0, 0.12), 0 8px 10px -5px rgba(40, 60, 172, 0.639);
+              box-shadow: 0 14px 26px -12px rgba(40, 60, 172, 0.639), 0 4px 23px 0px rgba(0, 0, 0, 0.12), 0 8px 10px -5px rgba(40, 60, 172, 0.639); }
     .btn.btn-primary.btn-link {
       background-color: transparent;
       color: #2f3d8ea3;
@@ -12715,7 +12715,7 @@ footer {
   .card .card-header-primary, .card.bg-primary,
   .card.card-rotate.bg-primary .front,
   .card.card-rotate.bg-primary .back {
-    background: linear-gradient(60deg, #ab47bc, #7b1fa2); }
+    background: linear-gradient(60deg, #2f3d8eda, #273791e3); }
   .card .card-header-info, .card.bg-info,
   .card.card-rotate.bg-info .front,
   .card.card-rotate.bg-info .back {
@@ -12737,8 +12737,8 @@ footer {
   .card.card-rotate.bg-rose .back {
     background: linear-gradient(60deg, #ec407a, #c2185b); }
   .card .card-header-primary {
-    -webkit-box-shadow: 0 5px 20px 0px rgba(0, 0, 0, 0.2), 0 13px 24px -11px rgba(156, 39, 176, 0.6);
-            box-shadow: 0 5px 20px 0px rgba(0, 0, 0, 0.2), 0 13px 24px -11px rgba(156, 39, 176, 0.6); }
+    -webkit-box-shadow: 0 5px 20px 0px rgba(0, 0, 0, 0.2), 0 13px 24px -11px rgba(12, 131, 226, 0.6);
+            box-shadow: 0 5px 20px 0px rgba(0, 0, 0, 0.2), 0 13px 24px -11px rgba(12, 131, 226, 0.6); }
   .card .card-header-danger {
     -webkit-box-shadow: 0 5px 20px 0px rgba(0, 0, 0, 0.2), 0 13px 24px -11px rgba(244, 67, 54, 0.6);
             box-shadow: 0 5px 20px 0px rgba(0, 0, 0, 0.2), 0 13px 24px -11px rgba(244, 67, 54, 0.6); }

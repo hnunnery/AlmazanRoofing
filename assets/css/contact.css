@@ -22,6 +22,19 @@ button {
 }
 #contact button {
   margin: 0 auto 30vh !important;
+}
+footer {
+  margin-top: 60px;
+}
+.footer-items {
+  margin: 0 auto;
+  padding: 0;
+}
+.my-bottom-nav {
+  margin-bottom: 20px;
+}
+footer div.copyright {
+  padding: 0 auto !important;
 } 
 
 /* REQUIRED FOR THE HIDDEN NETLIFY-HONEYPOT FIELD */
