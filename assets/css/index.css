@@ -26,9 +26,44 @@ div.brand h3 {
 .section-examples .col-lg-4{
   margin-top: 40px;
 }
-footer {
-  margin-top: 60px;
+.my-headers {
+  font-size: 11vw !important;
+  margin-top: 10vh;
+  margin-bottom: 5vh;
 }
+#carousel {
+  margin-top: 10vh;
+}
+/* from services page */
+li {
+  font-size: 1.2em;
+}
+/* end from services page */
+/* from reviews page */
+.reviews {
+  margin: 30px auto;
+}
+.blockquote {
+  background-color: #2f3d8e25;
+  border-radius: 20px;
+  text-align: left !important;
+}
+p.mb-0 {
+  padding-top: 10px;
+}
+/* end from reviews page */
+/* from contact page */
+h3 {
+  margin: 15px auto !important;
+  text-align: center;
+}
+button {
+  max-width: 250px;
+}
+#contact button {
+  margin: 0 auto 20px !important;
+}
+/* end from contact page */
 .footer-items {
   margin: 0 auto;
   padding: 0;
@@ -38,6 +73,11 @@ footer {
 }
 footer div.copyright {
   padding: 0 auto !important;
+}
+
+/* REQUIRED FOR THE HIDDEN NETLIFY-HONEYPOT FIELD */
+.hidden {
+  display: none;
 }
 
 /* 
@@ -67,6 +107,9 @@ No media query since this is the default in Bootstrap because it is "mobile firs
 @media (min-width: 992px) {
   .section-examples .col-lg-4{
     margin-top: 0;
+  }
+  .my-headers {
+    font-size: 8em !important;
   }
 }
 
